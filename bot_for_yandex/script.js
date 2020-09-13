@@ -12,7 +12,7 @@
 
 let keywords = ["Гобой","Как звучит флейта","Кларнет"];
 let keyword = keywords[getRandom(0,keywords.length)];
-let text = document.getElementById("text")[0];
+let text = document.getElementById("text");
 let button;
 
 
